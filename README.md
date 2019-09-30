@@ -1,5 +1,7 @@
 # internet-blocker
 
+Block(blacklist/whitelist some domain OR slow internet speed OR whatever you want) internet of lazy people who do not respond on Calendar invites OR Google form on time.
+
 - Steps To setup
 - - Clone Repo ```git clone git@github.com:joshtechnologygroup/internet-blocker.git```
 - - Install requirements ```pip install -r requirements.txt```
